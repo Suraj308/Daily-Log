@@ -29,3 +29,9 @@ checked the new commit will not have any issue by commiting the calender test.
 
 ## Day5
 16:44 Lets start new project the project will be hand gesture capture.
+
+## Day6
+Not much today only understand the hand gesture again from tutorial.
+I might get the Idea more clearly.
+I have 3 projects afters this related to hand gesture in my mind -
+Dance remember, Model and sound and light - model maybe from d5 and finally well not accurate Idea of 3td but visual from hand like Naruto jutsu or doctor strange magic circle type of things.
