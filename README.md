@@ -35,3 +35,10 @@ Not much today only understand the hand gesture again from tutorial.
 I might get the Idea more clearly.
 I have 3 projects afters this related to hand gesture in my mind -
 Dance remember, Model and sound and light - model maybe from d5 and finally well not accurate Idea of 3td but visual from hand like Naruto jutsu or doctor strange magic circle type of things.
+
+
+## Day7
+I wasn't able to code much today in the hand detection project as my Solutions is not showing in mp module.
+I need to use older version of python.
+If it is like this then i need to start another project of Web3.
+The 3rd Idea was of dance steps recognition.
