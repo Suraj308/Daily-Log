@@ -42,3 +42,8 @@ I wasn't able to code much today in the hand detection project as my Solutions i
 I need to use older version of python.
 If it is like this then i need to start another project of Web3.
 The 3rd Idea was of dance steps recognition.
+
+## Day8
+well few days and i am struggling to create the project with the hand detection one.
+so i shifted my focus towards another project of Bitcoin block.
+i run with some issues in the project but i think till tomorrow i will be able to finish it.
