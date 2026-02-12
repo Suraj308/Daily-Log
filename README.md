@@ -48,5 +48,8 @@ well few days and i am struggling to create the project with the hand detection 
 so i shifted my focus towards another project of Bitcoin block.
 i run with some issues in the project but i think till tomorrow i will be able to finish it.
 
-# Day9
+## Day9
 Created Lightning Network Phase1.
+
+## Day10
+Created Phase 2 of Lightning Network Routing.
